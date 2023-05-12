@@ -5,244 +5,816 @@
       "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_badge.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_badge.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_box-shadow.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_box-shadow.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_float.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_float.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_nav-divider.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_nav-divider.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_text-hide.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\fontawesome-css\\all.css",
+      "PackagePath": "staticwebassets\\fontawesome-5\\fontawesome-css\\all.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fontawesome-5\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\337884843_2441210312715548_8802480403300911227_n.jpg",
+      "PackagePath": "staticwebassets\\images\\337884843_2441210312715548_8802480403300911227_n.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\Narnew.jpg",
+      "PackagePath": "staticwebassets\\images\\Narnew.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\RRR-Telecom.png",
+      "PackagePath": "staticwebassets\\images\\RRR-Telecom.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\RRR.jpg",
+      "PackagePath": "staticwebassets\\images\\RRR.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\Tequila.jpg",
+      "PackagePath": "staticwebassets\\images\\Tequila.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\Vodka.jpg",
+      "PackagePath": "staticwebassets\\images\\Vodka.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\Whiskey-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Whiskey-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\Whiskey.jpg",
+      "PackagePath": "staticwebassets\\images\\Whiskey.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\azercell.png",
+      "PackagePath": "staticwebassets\\images\\azercell.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\bakcell-logo.svg",
+      "PackagePath": "staticwebassets\\images\\bakcell-logo.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\blog-single.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-single.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\brandy.jpg",
+      "PackagePath": "staticwebassets\\images\\brandy.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\ccvdn.jpg",
+      "PackagePath": "staticwebassets\\images\\ccvdn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\download.jpg",
+      "PackagePath": "staticwebassets\\images\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\download.png",
+      "PackagePath": "staticwebassets\\images\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\downloada.png",
+      "PackagePath": "staticwebassets\\images\\downloada.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\downloadq.jpg",
+      "PackagePath": "staticwebassets\\images\\downloadq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\downloadx.png",
+      "PackagePath": "staticwebassets\\images\\downloadx.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\file.enc",
+      "PackagePath": "staticwebassets\\images\\file.enc"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-10.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-11.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasim20.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasim20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagasin-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gagasin-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gagaswim-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gagaswim-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\gin.jpg",
+      "PackagePath": "staticwebassets\\images\\gin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\images\\img-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\leman_n.jpg",
+      "PackagePath": "staticwebassets\\images\\leman_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\narr.png",
+      "PackagePath": "staticwebassets\\images\\narr.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\narrr.png",
+      "PackagePath": "staticwebassets\\images\\narrr.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\nextel.jpg",
+      "PackagePath": "staticwebassets\\images\\nextel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\phone.avif",
+      "PackagePath": "staticwebassets\\images\\phone.avif"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\phonelogo.jpg",
+      "PackagePath": "staticwebassets\\images\\phonelogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\product-single.jpg",
+      "PackagePath": "staticwebassets\\images\\product-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\rrr.png",
+      "PackagePath": "staticwebassets\\images\\rrr.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\rrr1.jpg",
+      "PackagePath": "staticwebassets\\images\\rrr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\rum-1.jpg",
+      "PackagePath": "staticwebassets\\images\\rum-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\rum.jpg",
+      "PackagePath": "staticwebassets\\images\\rum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\salam.webp",
+      "PackagePath": "staticwebassets\\images\\salam.webp"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\smart.jpg",
+      "PackagePath": "staticwebassets\\images\\smart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\images\\unnamed.png",
+      "PackagePath": "staticwebassets\\images\\unnamed.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_blog-single.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_blog-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_index.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_index.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_login.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_product-single.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_product-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\Desktop\\FinalProject\\FinalProject\\FinalProject\\wwwroot\\scss\\pages\\_product.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_product.scss"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
