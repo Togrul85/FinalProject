@@ -1,5 +1,7 @@
 ﻿
 using FinalProject.DAL;
+using FinalProject.Models;
+using FinalProject.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -14,10 +16,14 @@ namespace FinalProject.Controllers
             _appDbContext = appDbContext;
         }
 
-        public IActionResult Index()
+        public IActionResult Index()  //fronttoback reletions 11:26
         {
-            return View();
+            HomeVM homeVM = new HomeVM();
+            homeVM.Rtelecoms =_appDbContext.Rtelecoms.ToList();
+            homeVM.Expensives = _appDbContext.Expensives.ToList();
+            return View(homeVM);
         }
-          
+        
+       
     }
 }

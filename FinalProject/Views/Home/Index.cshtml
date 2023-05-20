@@ -1,8 +1,367 @@
-﻿
+﻿@model HomeVM
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
 
+
+   @foreach (var item in Model.Rtelecoms)
+{
+    <div class="hero" style="background-image: url('./images/@item.ImageUrl');">
+    </div>
+}
+<div class="info">
+
+    <div class="container baby">
+        <a data-aos="fade-up" class="card2 col-md-4" href="#">
+            <h3>ONLINE SUPPORT 24/7</h3>
+            <p class="small">
+                A small river named Duden flows by their place and supplies it with the necessary regelialia.
+
+            </p>
+            <div class="go-corner" href="#">
+                <div class="go-arrow">
+                </div>
+            </div>
+        </a>
+        <a data-aos="fade-up" class="card2 col-md-4" href="#">
+            <h3>
+                MONEY BACK GUARANTEE
+            </h3>
+            <p class="small">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+
+            <div class="go-corner" href="#">
+                <div class="go-arrow">
+                </div>
+            </div>
+        </a>
+        <a data-aos="fade-up" class="card2 col-md-4" href="#">
+            <h3>
+                FREE SHIPPING & RETURN
+            </h3>
+            <p class="small">
+                A small river named Duden flows by their place and supplies it with the necessary regelialia.
+
+                .
+            </p>
+
+            <div class="go-corner" href="#">
+                <div class="go-arrow">
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- New Taste -->
+
+<div class="container">
+    <div data-aos="fade-right" class="row mt-5">
+        <div style="background-image: url(./images/ccvdn.jpg);background-size: cover;" class="col-md-6 yeah">
+        </div>
+        <div data-aos="fade-up" class="col-md-6 yeah">
+
+            <span>It has been operating since 2015</span>
+            <h2>RRR telecom</h2>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+            <div class="count">
+                <p class="count">2000</p>
+                <p class="fak">The number of numbers currently in the database</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- drink image -->
+
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-lg-3 res1 res col-md-6">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px; border-radius: 50%;">
+                    </div>
+                    <div class="flip-card-back">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px; border-radius: 50%;">
+
+                        <p style="color: black;">Nar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 res col-md-6">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+                    </div>
+                    <div class="flip-card-back">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+
+                        <p style="color: black;">Bakcell</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 res col-md-6">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+                    </div>
+                    <div class="flip-card-back">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+
+                        <p style="color: black;">Azercell</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 res col-md-6">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+                    </div>
+                    <div class="flip-card-back">
+                        <img src="~/images/rrr.png" alt="Avatar" style="width:200px;height:200px;border-radius: 50%;">
+
+                        <p style="color: black;">Naxtel</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Product image -->
+<div class="Tastefully ">
+    <div class="container">
+        <p>Our offers</p>
+        <h2>The most expensive numbers in the database</h2>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+       @foreach (var item in Model.Expensives)
+        {
+            <div class="col-lg-3 drinkimage resdrink  col-md-6">
+
+                <div class="product-field">
+                    <ul class="itemsss">
+                        <li data-category="" data-price="">
+                            <picture>
+                                <img src="./images/@item.ImageUrl" alt="">
+                            </picture>
+                            <div class="detail">
+                                <p class="icon">
+                                    <span><i class="far fa-heart"></i></span>
+                                    <span><i class="far fa-share-square"></i></span>
+                                    <span><i class="fas fa-shopping-basket"></i></span>
+                                </p>
+                                <strong>@item.Name</strong>
+                                <h3>@item.Number</h3>
+                                <br>
+                                <small>@item.Button</small>
+                            </div>
+                            <h4 class="qymet">@item.Price</h4>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+        }
+
+    </div>
+</div>
+
+
+
+
+<!--
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-4">
+      <a href="" class="btn btn-primary d-block">
+        View All Product   ->
+      </a>
+    </div>
+  </div>
+</div> -->
+<!-- karusel -->
+
+<div style="background-image:url(~/images/rrr1.jpg);" class="karusel">
+
+
+    <h2>Happy Clients</h2>
+
+    <div class="container">
+
+        <div class="col-12">
+
+            <div class="container1">
+                <div class="faders">
+                    <div class="left"></div>
+                    <div class="right"></div>
+                </div>
+
+                <div class="items">
+                    <div class="entry">
+                        <p class="name">Zeynalov Ismayıl</p>
+                        <img class="faking" src="~/images/file.enc" alt="Smiling person" />
+                        <p class="quote">"Narın tariflərin bəyənirəm"</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Xəlilov Rovshen</p>
+                        <img class="faking" src="~/images/337884843_2441210312715548_8802480403300911227_n.jpg" alt="Smiling person" />
+                        <p class="quote">"Seninkide yasayis deyil haa.."</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Yagubov Leman</p>
+                        <img class="faking" src="~/assets/images/leman_n.jpg" alt="Smiling person" />
+                        <p class="quote">"Azercellin tariflərin bəyənirəm "</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Bahman Memmedov</p>
+                        <img class="faking" src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Smiling person" />
+                        <p class="quote">"Gagasim bir canciyer 2 ..."</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Qubad Memmedov</p>
+                        <img class="faking" src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Smiling person" />
+                        <p class="quote">"Meni narahat elemiyin (kayfadadi)"</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Yusif Bagiraz</p>
+                        <img class="faking" src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Smiling person" />
+                        <p class="quote">"Gaga ana seyfe yazmisam"</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">Samxal Memmedov</p>
+                        <img class="faking" src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Smiling person" />
+                        <p class="quote">"Gaga bomba seydi ha"</p>
+                    </div>
+                    <div class="entry">
+                        <p class="name">John Doe</p>
+                        <img class="faking" src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Smiling person" />
+                        <p class="quote">"Man, I think this app freaking rocks and stuff. Dude."</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- blogk -->
+
+<div data-aos="fade-up" class="blog">
+    <p>Blog</p>
+    <h2>Recent Blog</h2>
+</div>
+
+<div class="container">
+    <div class="row justify-content-between">
+        <div data-aos="fade-up" class="col-lg-6 blog-post post">
+
+            <div class="blog-post__div">
+
+                <a href="" style="background-image: url(./images/narrr.png); background-size: cover;background-position: center center;"></a>
+
+                <div class="blog-post__div__desc">
+                    <i class="fa fa-calendar"></i>
+                    <p>17 May 2023</p>
+                    <h3>
+                        <p href="index.html">Nar mobile istifadəçisisən?</p>
+
+                    </h3>
+                    <p class="small">Balansını artır</p>
+                    <p class="small">Səyyar Nar xidmətindən istifadə et</p>
+                    <p class="small">Nar+ tətbiqi ilə hesabını daha asan idarə et</p>
+                </div>
+            </div>
+        </div>
+        <div data-aos="fade-up" class="col-lg-6 blog-post post responsive">
+            <div class="blog-post__div">
+                <a href="" style="background-image: url(./images/bakcell-logo.svg); background-size: cover;background-position: center center;"></a>
+
+                <div class="blog-post__div__desc">
+                    <i class="fa fa-calendar"></i>
+                    <p>17 May 2023</p>
+                    <h3>
+                        <p href="index.html">Bakcell mobile istifadəçisisən?</p>
+
+                    </h3>
+                    <p class="small">Balansını artır</p>
+                    <p class="small">Səyyar Bakcell xidmətindən istifadə et</p>
+                    <p class="small">Bakcell tətbiqi ilə hesabını daha asan idarə et</p>
+
+                </div>
+
+            </div>
+
+        </div>
+        <div data-aos="fade-up" class="col-lg-6 blog-post post responsive1">
+
+            <div class="blog-post__div">
+
+                <a href="" style="background-image: url(./images/azercell.png); background-size: cover;background-position: center center;"></a>
+
+                <div class="blog-post__div__desc">
+                    <i class="fa fa-calendar"></i>
+                    <p>17 May 2023</p>
+                    <h3>
+                        <p href="index.html">Azercell mobile istifadəçisisən?</p>
+
+                    </h3>
+                    <p class="small">Balansını artır</p>
+                    <p class="small">Səyyar Bakcell xidmətindən istifadə et</p>
+                    <p class="small">Bakcell tətbiqi ilə hesabını daha asan idarə et</p>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+        <div data-aos="fade-up" class="col-lg-6 blog-post post responsive2">
+
+            <div class="blog-post__div">
+
+                <a href="" style="background-image: url(./images/nextel.jpg); background-size: cover;background-position: center center;"></a>
+
+                <div class="blog-post__div__desc">
+                    <i class="fa fa-calendar"></i>
+                    <p>17 May 2023</p>
+                    <h3>
+                        <p href="index.html">Naxtel mobile istifadəçisisən?</p>
+
+                    </h3>
+                    <p class="small">Balansını artır</p>
+                    <p class="small">Səyyar Naxtel xidmətindən istifadə et</p>
+                    <p class="small">Naxtel tətbiqi ilə hesabını daha asan idarə et</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

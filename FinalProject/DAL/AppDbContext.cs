@@ -1,6 +1,17 @@
-﻿namespace FinalProject.DAL
+﻿using FinalProject.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace FinalProject.DAL
 {
-    public class AppDbContext
+    public class AppDbContext : DbContext
     {
+        public AppDbContext(DbContextOptions options) : base(options) //miras aldigimiz classin constructorun cagirir
+        {
+
+        }
+
+        public DbSet<Rtelecom>Rtelecoms { get; set; }
+        public DbSet<Expensive> Expensives { get; set; }
     }
 }
+

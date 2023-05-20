@@ -1,6 +1,10 @@
 ﻿namespace FinalProject.Models
 {
-    public class rrrtelecom
+    public class Rtelecom
     {
+        public int  Id { get; set; }
+
+        public string ImageUrl { get; set; }    
+
     }
 }
