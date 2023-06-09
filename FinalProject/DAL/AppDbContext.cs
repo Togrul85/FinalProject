@@ -12,6 +12,9 @@ namespace FinalProject.DAL
 
         public DbSet<Rtelecom>Rtelecoms { get; set; }
         public DbSet<Expensive> Expensives { get; set; }
+        public DbSet<Blog> Blogs  { get; set; }
+
+
     }
 }
 

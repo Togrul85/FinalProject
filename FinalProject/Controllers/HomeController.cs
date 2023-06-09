@@ -21,6 +21,7 @@ namespace FinalProject.Controllers
             HomeVM homeVM = new HomeVM();
             homeVM.Rtelecoms =_appDbContext.Rtelecoms.ToList();
             homeVM.Expensives = _appDbContext.Expensives.ToList();
+            homeVM.Blogs= _appDbContext.Blogs.ToList();
             return View(homeVM);
         }
         
